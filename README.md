@@ -16,5 +16,4 @@
   <li> Linguisitcs are fascinating </li>
   <li> Wants to go concerts again  </li>
   <li> Cat owner </li>
-  <li> I'm a little to average <img src="https://media.giphy.com/media/Y3qrREWGFsechb940U/giphy.gif" width=100>
 </ul>
