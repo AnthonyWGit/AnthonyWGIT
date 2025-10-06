@@ -19,6 +19,6 @@
     <ul>
       <li>Ad Teemporis Finem</li>
       <li>PyCheckers</li>
-      <li>Fakembar</li>
+      <li><a href="https://anthonywgit.github.io/fakembar-front/index.html">Fakembar</a></li>
     </ul>
 </ul>
